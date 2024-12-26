@@ -1,4 +1,2 @@
 New text.
 This other text.
-
-This text to be deleted.
